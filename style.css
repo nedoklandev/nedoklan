@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-family: 'Segoe UI';
+    background-color: black;
+
+    margin: 0;
+    padding: 0;
+}
+#div1{
+ background-color: black;
+ color: white;
+ border-width: auto;
+}
+a{
+    color: white;
+}
+.italic{
+    font-style: italic;
+}
+#Datenschutz{
+    border-radius: 33px;
+    background-image: linear-gradient(black, gray);
+    max-width: 750px;
+    width: 90%;
+    margin: 0 auto;
+}
+#Impressum{
+    border-radius: 33px;
+    background-image: linear-gradient(black, gray);
+    max-width: 750px;
+    width: 90%;
+    margin: 0 auto;
+}
+.big{
+    font-weight: bold;
+    font-size: large;
+}
+hr{
+    height: 3.5px;
+    background-color: white;
+    border-radius: 33px;
+}
